@@ -1,0 +1,9 @@
+*~
+bin/*
+data/*
+*.out
+ext/*
+kash
+writeup/*
+testing/*
+*.o
